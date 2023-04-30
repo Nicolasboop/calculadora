@@ -2,7 +2,8 @@
     display: block;
     margin: 0 auto;
     padding:  20px;
-    background-color: rgb(94, 69, 36);
+    background: rgb(6,98,135);
+background: linear-gradient(180deg, rgba(6,98,135,1) 0%, rgba(21,143,149,0.8421743697478992) 25%, rgba(30,170,136,0.7973564425770308) 50%, rgba(21,143,144,0.8393732492997199) 75%, rgba(6,98,135,1) 100%);
     width: 350px;
     height: 500px;
     border-radius: 25px;
